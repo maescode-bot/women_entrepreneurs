@@ -110,42 +110,8 @@ include('includes/config.php');
                   </div>
                 </div>
               </div>
-              <!--Exco profile Starts here-->
-              <div
-                class="col-ms-10 col-md-4 pb-1 mb-3 appear-animation"
-                data-appear-animation="fadeInUpShorter"
-                data-appear-animation-delay="1300"
-              >
-                <div class="card border-0 custom-box-shadow-1 p-1">
-                  <div class="card-body">
-                    <a href="#" class="text-decoration-none">
-                      <img
-                        class="img-fluid pb-2 mb-4"
-                        src="images/executive/Chief Mrs Anita Okuribido.jpg"
-                        alt="Okler Success Case"
-                      />
-                    </a>
-                    <h4
-                      class="font-weight-bold text-color-dark custom-text-size-2 mb-3"
-                    >
-                      <a
-                        href="#"
-                        class="text-color-dark text-decoration-none"
-                        >Chief Mrs Anita Okuribido</a
-                      >
-                    </h4>
-                    <p
-                      class="custom-font-secondary custom-text-size-1 mb-1"
-                    >
-                      
-                      <strong class="text-color-dark">Board of Trustee</strong>
-                      
-                    </p>
-                  </div>
-                </div>
-              </div>
-             <!--Exco profile ends here-->
 
+            
              <!--Exco profile Starts here-->
               <div
                 class="col-ms-10 col-md-4 pb-1 mb-3 appear-animation"
@@ -181,6 +147,7 @@ include('includes/config.php');
                 </div>
               </div>
              <!--Exco profile ends here-->
+             
              <!--Exco profile Starts here-->
               <div
                 class="col-ms-10 col-md-4 pb-1 mb-3 appear-animation"

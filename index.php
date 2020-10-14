@@ -554,66 +554,6 @@ include('includes/config.php');
           </div>
   </section>
 
-<!---------------Our Clusters starts------------------>
-<section
-          id="services"
-          class="section custom-section-full-width bg-color-transparent border-0 mt-0 mb-n5"
-          style="
-            background-image: url(img/demos/it-services/backgrounds/dots-background-1.png);
-            background-repeat: no-repeat;
-            background-position: bottom right;
-          "
-        >
-          <div class="container container-lg pb-5 mb-5">
-            <div class="row">
-              <div class="col">
-                <div class="overflow-hidden mb-2">
-                  <span
-                    class="d-block font-weight-bold custom-text-color-grey-1 text-center line-height-1 mb-0 appear-animation"
-                    data-appear-animation="maskUp"
-                    data-appear-animation-delay="300"
-                    ></span
-                  >
-                </div>
-                <div class="overflow-hidden mb-2">
-                  <h2
-                    class="text-primary font-weight-bold text-center text-8 line-height-2 mb-0 appear-animation mt-3"
-                    data-appear-animation="maskUp"
-                    data-appear-animation-delay="500"
-                  >
-                     Our Clusters
-                  </h2>
-                </div>
-              </div>
-            </div>
-            <div class="row" data-appear-animation="maskUp"
-                             data-appear-animation-delay="400">
-            <div class="col">
-              <h4>WEDPN  Clusters</h4>
-              <div class="owl-theme stage-margin shadow-lg" >
-                <ul class="float-left" >
-                  <li class="list-group-item-text">MULTI- TASKING/ PROFESSIONALS. </li>
-                  <li class="list-group-item-text">AGRO BUSINESS /PROCESSING/PACKAGING/BRANDING.  </li>
-                  <li class="list-group-item-text">MULTI- TASKING/ PROFESSIONALS. </li>
-                  <li class="list-group-item-text">IT/RENEWABLE ENERGY/OIL&GAS/ENVIRONMENT.</li>
-                  
-                </ul>
-
-                <ul class="float-left">
-                <li class="list-group-item-text">EXPORT/SHIPPING/MARITIME.</li>
-                  <li class="list-group-item-text">FASHION/TEXTILE DESIGN/BEAUTY/COSMETIC/ HEALTH/WELLNESS.      </li>
-                  <li class="list-group-item-text">TRAVEL/TOURISM/CATERING/EVENT MANAGEMENT/CREATIVE ART/CULTURE.</li>
-                  <li class="list-group-item-text">OUR COOPERATIVE: WEPDN COOPERATIVE MULTIPURPOSE SOCIETY.</li>
-                </ul>
-
-              </div>
-            </div>
-          </div>
-  </section>
-
-
-<!---------------Our Clusters ends-------------------->
-
 
 <!---------Board of Trustees Start------------------>
   <section
@@ -710,10 +650,204 @@ include('includes/config.php');
             </div>
           </div>
   </section>
-  <!----Board of Trustees Ends here------>
+<!---------Board of Trustees Ends here------------------->
 
-  <!-----------Exco Starts-------------->
+<!---------------Our Clusters starts------------------>
+<section
+          id="services"
+          class="section custom-section-full-width bg-color-transparent border-0 mt-0 mb-n5"
+          style="
+            background-image: url(img/demos/it-services/backgrounds/dots-background-1.png);
+            background-repeat: no-repeat;
+            background-position: bottom right;
+          "
+        >
+          <div class="container container-lg pb-5 mb-5">
+            <div class="row">
+              <div class="col">
+                <div class="overflow-hidden mb-2">
+                  <span
+                    class="d-block font-weight-bold custom-text-color-grey-1 text-center line-height-1 mb-0 appear-animation"
+                    data-appear-animation="maskUp"
+                    data-appear-animation-delay="300"
+                    ></span
+                  >
+                </div>
+                <div class="overflow-hidden mb-2">
+                  <h2
+                    class="text-primary font-weight-bold text-center text-8 line-height-2 mb-0 appear-animation mt-3"
+                    data-appear-animation="maskUp"
+                    data-appear-animation-delay="500"
+                  >
+                     Our Clusters
+                  </h2>
+                </div>
+              </div>
+            </div>
+            <div class="row" data-appear-animation="maskUp"
+                             data-appear-animation-delay="400">
+            <div class="col">
+              <h4>WEDPN Clusters</h4>
+              <div class="owl-theme stage-margin shadow-lg" >
+                <ul class="float-left" >
+                  <li class="list-group-item-text">MULTI- TASKING/ PROFESSIONALS. </li>
+                  <li class="list-group-item-text">AGRO BUSINESS /PROCESSING/PACKAGING/BRANDING.  </li>
+                  <li class="list-group-item-text">IT/RENEWABLE ENERGY/OIL&GAS/ENVIRONMENT.</li>
+                  <li class="list-group-item-text">EXPORT/SHIPPING/MARITIME.</li>
+                </ul>
 
+                <ul class="float-left">
+                
+                  <li class="list-group-item-text">FASHION/TEXTILE DESIGN/BEAUTY/COSMETIC/ HEALTH/WELLNESS.      </li>
+                  <li class="list-group-item-text">TRAVEL/TOURISM/CATERING/EVENT MANAGEMENT/CREATIVE ART/CULTURE.</li>
+                  <li class="list-group-item-text">OUR COOPERATIVE: WEPDN COOPERATIVE MULTIPURPOSE SOCIETY.</li>
+                </ul>
+
+              </div>
+            </div>
+          </div>
+  </section>
+
+
+<!---------------Our Clusters ends-------------------->
+
+
+<!---------6 clusters chairperson Start------------------>
+<section
+          id="services"
+          class="section custom-section-full-width bg-color-transparent border-0 mt-n5 mb-1"
+          style="
+            background-image: url(img/demos/it-services/backgrounds/);
+            background-repeat: no-repeat;
+            background-position: bottom right;
+          "
+        >
+          <div class="container container-lg pb-5 mb-2">
+            <div class="row">
+              <div class="col">
+                <div class="overflow-hidden mb-2">
+                  <span
+                    class="d-block font-weight-bold custom-text-color-grey-1 text-center line-height-1 mb-0 appear-animation"
+                    data-appear-animation="maskUp"
+                    data-appear-animation-delay="300"
+                    ></span
+                  >
+                </div>
+                <div class="overflow-hidden mb-5">
+                  <h2
+                    class="text-color-dark font-weight-bold text-center text-8 line-height-2 mb-0 appear-animation mt-3"
+                    data-appear-animation="maskUp"
+                    data-appear-animation-delay="500"
+                  >
+                    Chairperson
+                  </h2>
+                </div>
+              </div>
+            </div>
+            <div class="row">
+            <div class="col">
+              <h4>Meet WEDPN Chairperson</h4>
+              <div class="owl-carousel owl-theme stage-margin" data-plugin-options="{'items': 4, 'margin':5, 'loop': true, 'nav': true, 'dots': true, 'stagePadding': 10}">
+                <div>
+                  <img alt="Mrs Frances Anumba" class="img-fluid rounded" src="cpc/1.jpg"  style="height: 280px;padding: 5px">
+                  <div style="border-left:solid 4px gray; height: 400px; padding: 10px;">
+                    <p class="text-color-black">
+                      <b>
+                        Mrs Frances Anumba Chairperson,<br> Fashion / Health / Beauty.
+                      </b>
+                    </p>
+                    <hr>
+                    <p class="text-justify text-color-grey text-color-hover-black">
+                    The cluster enlightens members on the importance of staying healthy to stay wealthy. Their mandate is to see a wholesome woman. They achieve their mandates through enlightenment programmes, trainings, teaching on how to create products for the market. They are into lifestyle and creativity. They also welcome MSMES who are looking into exploring the Fashion space and are also open to collaborations.
+                    </p>
+                  </div>
+                </div>
+
+                <div>
+                  <img alt="Mrs Tope Ande Chairperson" class="img-fluid rounded" src="cpc/2.jpg" style="height: 280px;padding: 5px">
+                  <div style="border-left:solid 4px gray; height: 400px; padding: 10px;"> 
+                    <p class="text-color-black">
+                      <b>
+                        Mrs Tope Ande Chairperson <br> Export / Maritime / Shipping
+                      </b>
+                    </p>
+                    <hr>
+                    <p class="text-justify text-color-grey text-color-hover-black">
+                    The cluster seeks to create value for members through trainings on how to explore the export opportunities available for Nigeria and Africa as a whole. They are passionate about people exploring the international market through the right market entry. They look forward to welcoming new members who are ready to take the export business to another level.
+                    </p>
+                  </div>
+                </div>
+
+                <div>
+                  <img alt=" Barrister Joanne Miller - Egboboh Chairperson" class="img-fluid rounded" src="cpc/#" style="height: 280px;padding: 5px">
+                  <div style="border-left:solid 4px gray; height: 400px; padding: 10px;"> 
+                    <p class="text-color-black">
+                      <b>
+                        Barrister Joanne Miller - Egboboh <br> Chairperson, Multitask / Professionals
+                      </b>
+                    </p>
+                    <hr>
+                    <p class="text-justify text-color-grey text-color-hover-black">
+                      The cluster is made up of professionals, whose services are rudimentary to corporate services and good governance . Their responsibilities among other things are to ensure members are educated in the recent developments on the corporate world through information sharing, campaigns and trainings. In this cluster you will find Lawyers, Accountants, Business Professionals, etc. They also welcome MSMES who are looking for information on how to start their businesses on the right footing.
+                     </p>
+                  </div>
+                </div>
+
+
+                <div>
+                  <img alt=" Mrs Ifeyinwa Adesida" class="img-fluid rounded" src="cpc/#" style="height: 280px;padding: 5px">
+                  <div style="border-left:solid 4px gray; height: 400px; padding: 10px;"> 
+                    <p class="text-color-black">
+                      <b>
+                      Mrs Ifeyinwa Adesida  <br> Chairperson IT/Renewable Energy
+                      </b>
+                    </p>
+                    <hr>
+                    <p class="text-justify text-color-grey text-color-hover-black">
+                    The cluster seeks to accommodate and develop trainings and programmes towards improving business owners in the IT/ Renewable Energy Economy. They also welcome MSMES who are looking into that business space.  
+                    </p>
+                    </div>
+                </div>
+
+                <div>
+                  <img alt=" Mrs Sarat Onibudo" class="img-fluid rounded" src="cpc/#" style="height: 280px;padding: 5px">
+                  <div style="border-left:solid 4px gray; height: 400px; padding: 10px;"> 
+                    <p class="text-color-black">
+                      <b>
+                      Mrs Sarat Onibudo<br> Chairperson, Agro cluster
+                      </b>
+                    </p>
+                    <hr>
+                    <p class="text-justify text-color-grey text-color-hover-black">
+                    The cluster is dedicated in seeing Agro business owners enjoy the advantages of  knowledge sharing especially as it concerns commercial farming and subsistence farming. This they have achieved through in-house training and expert trainings. They welcome MSMES who are looking into that business space and need directives on how to launch out.                    </p>
+                    </div>
+                </div>
+
+
+
+                <div>
+                  <img alt=" Mrs Sarat Onibudo" class="img-fluid rounded" src="cpc/#" style="height: 280px;padding: 5px">
+                  <div style="border-left:solid 4px gray; height: 400px; padding: 10px;"> 
+                    <p class="text-color-black">
+                      <b>
+                        Mrs Regina Obasa  <br> Chairperson Tourism/Travel 
+                      </b>
+                    </p>
+                    <hr>
+                    <p class="text-justify text-color-grey text-color-hover-black">
+                    The cluster seeks to make members  enjoy first hand information on the best places to be on earth and how they can have value while enjoying their stay at any part of the world. They  also expose members in the sector to opportunities and sustainable growth.
+                    </p>
+                    </div>
+                </div>
+
+
+              </div>
+            </div>
+          </div>
+  </section>
+  <!----6 clusters chairperson Ends here----->
+
+  <!-----------Exco Starts------------------->
 <section
           class="section section-height-3 custom-section-full-width bg-color-transparent border-0 pb-4 mb-0 mt-1"
           style="
@@ -948,15 +1082,6 @@ include('includes/config.php');
                     <b>
                      Mrs Mireille B. <br> 
                      General Secretary
-                    </b>
-                  </p>
-                </div>
-                <div>
-                  <img alt="Chief Mrs. Anita O." class="img-fluid rounded" src="images/executive/Chief Mrs Anita Okuribido.jpg">
-                  <p>
-                    <b>
-                     Chief Mrs. Anita O.<br> 
-                     Board of Trustee
                     </b>
                   </p>
                 </div>
