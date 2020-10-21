@@ -1,6 +1,6 @@
 <div class="rwxk">
     <a href="https://api.whatsapp.com/send?phone=2348033923128" target="_blank">
-        <img style="width:80px;height:80px;" class="you" src="./images/waaddme.png" alt="whatsap logo">
+        <img style="width:80px;height:80px;" class="you" src="./whatsapp.svg" alt="whatsap logo">
     </a>
 </div>
 <section id="footer" class="bg-color-primary border-0 mt-0 text-white custom-section-full-width">

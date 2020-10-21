@@ -558,14 +558,14 @@ include('includes/config.php');
 <!---------Board of Trustees Start------------------>
   <section
           id="services"
-          class="section custom-section-full-width bg-color-transparent border-0 mt-n5 mb-1"
+          class="section custom-section-full-width bg-color-transparent border-0 mt-n5"
           style="
             background-image: url(img/demos/it-services/backgrounds/);
             background-repeat: no-repeat;
             background-position: bottom right;
           "
         >
-          <div class="container container-lg pb-5 mb-2">
+          <div class="container container-lg pb-5 mb-1">
             <div class="row">
               <div class="col">
                 <div class="overflow-hidden mb-2">
@@ -651,6 +651,146 @@ include('includes/config.php');
           </div>
   </section>
 <!---------Board of Trustees Ends here------------------->
+
+
+<!-----------Meet our operation Team Starts-------------->
+<section
+          class="section section-height-3 custom-section-full-width bg-color-transparent border-0 pb-4 mb-0"
+          style="
+            background-image: url(img/demos/it-services/backgrounds/dots-background-1.png);
+            background-repeat: no-repeat;
+            background-position: top left;
+          "
+        >
+    <div class="container container-lg mt-1">
+      <div class="row">
+        <div class="col-lg-4 mb-5 mb-lg-0">
+          <span
+            class="d-block custom-text-color-grey-1 font-weight-bold mb-1 appear-animation"
+            data-appear-animation="fadeInUpShorter"
+            data-appear-animation-delay="300"
+            ></span
+          >
+          <h2
+            class="text-color-dark font-weight-bold text-8 line-height-2 negative-ls-1 pb-2 mb-4 appear-animation"
+            data-appear-animation="fadeInUpShorter"
+            data-appear-animation-delay="500"
+          >
+            Superior leader is a person who can bring ordinary people together to achieve extraordinary results.
+          </h2>
+          <p
+            class="custom-text-size-1 pb-2 mb-4 appear-animation"
+            data-appear-animation="fadeInUpShorter"
+            data-appear-animation-delay="700"
+          >
+           "We are what we repeatedly do. Excellence, then, is not an act, but a habit. " <br>
+           - Aristotle
+          </p>
+        </div>
+        <div class="col-lg-8">
+          <ul
+            class="custom-nav-style-1 nav nav-pills justify-content-lg-start pb-3 appear-animation"
+            data-appear-animation="fadeInUpShorter"
+            data-appear-animation-delay="1100"
+          >
+            
+          
+            <li class="nav-item" style="background-color: #ff3b14">
+              <a href="women_entrepreneurs_excos.php" 
+                class="nav-link font-weight-bold text-white border px-4 py-3"
+                href="women_entrepreneurs_excos.php"
+                >View More Operation Team Members</a
+              >
+            </li>
+          </ul>
+
+          <div
+            class="sort-destination-loader sort-destination-loader-loaded mt-1 pt-2"
+          >
+            <div
+              id="portfolioLoadMoreWrapper"
+              class="row row-gutter-sm portfolio-list sort-destination overflow-visible justify-content-center"
+              data-sort-id="portfolio"
+              data-total-pages="3"
+              data-ajax-url="ajax/demo-it-services-ajax-load-more-"
+            >
+
+            </div>
+            <div class="row">
+            <div class="col">
+              <h4>Click on "View More Operation Team Members" to see all</h4>
+              <div class="owl-carousel owl-theme stage-margin" data-plugin-options="{'items': 3, 'margin': 7, 'loop': true, 'nav': true, 'dots': true, 'stagePadding': 10}">
+                <div>
+                  <img alt="Mrs. Affi Israel Ibanga" class="img-fluid rounded" src="images/executive/Mrs Afi Ibanga Pic.jpg">
+                  <p>
+                    <b>
+                      Mrs. Affi Israel Ibanga <br> 
+                      Chief Operation Officer
+                    </b>
+                  </p>
+                </div>
+                <div>
+                 <img alt="" class="img-fluid rounded" src="images/executive/Mrs Mimy Bawa-Allah.jpg">
+                  <p>
+                    <b>
+                     Mrs Mireille B. <br> 
+                     General Secretary
+                    </b>
+                  </p>
+                </div>
+                <div>
+                  <img alt="Mrs Edith Lawal" class="img-fluid rounded" src="images/executive/Mrs Edith Lawal.jpg">
+                  <p>
+                    <b>
+                     Mrs Edith Lawal<br> 
+                    Public Relations Officer
+                    </b>
+                  </p>
+                </div>
+                <div>
+                  <img alt="Ogun State Coordinator, WEPDN" class="img-fluid rounded" src="images/executive/Mrs Dorcas James.jpg">
+                  <p>
+                    <b>
+                     Mrs Dorcas James<br> 
+                     Ogun State Coordinator.
+                    </b>
+                  </p>
+                </div>
+                <div>
+                  <img alt="" class="img-fluid rounded" src="images/executive/Ms. Folasade Coker.jpg">
+                  <p>
+                    <b>
+                     Ms. Folasade Coker<br> 
+                     Chief Whip
+                    </b>
+                  </p>
+                </div>
+                
+              </div>
+            </div>
+          </div>
+
+
+            <div id="portfolioLoadMoreBtnWrapper" class="row mt-3">
+              <div class="col text-center">
+                <div
+                  id="portfolioLoadMoreLoader"
+                  class="portfolio-load-more-loader"
+                >
+                  <div class="bounce-loader">
+                    <div class="bounce1"></div>
+                    <div class="bounce2"></div>
+                    <div class="bounce3"></div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+  <!----Meet our Operating team  ends---------------------->
 
 <!---------------Our Clusters starts------------------>
 <section
@@ -739,17 +879,17 @@ include('includes/config.php');
                     data-appear-animation="maskUp"
                     data-appear-animation-delay="500"
                   >
-                    Chairperson
+                    CHAIRPERSONS
                   </h2>
                 </div>
               </div>
             </div>
             <div class="row">
             <div class="col">
-              <h4>Meet WEDPN Chairperson</h4>
+              <h4>Meet WEPDN CHAIRPERSONS</h4>
               <div class="owl-carousel owl-theme stage-margin" data-plugin-options="{'items': 4, 'margin':5, 'loop': true, 'nav': true, 'dots': true, 'stagePadding': 10}">
                 <div>
-                  <img alt="Mrs Frances Anumba" class="img-fluid rounded" src="cpc/1.jpg"  style="height: 280px;padding: 5px">
+                  <img alt="Mrs Frances Anumba" class="img-fluid rounded" src="cpc/1.jpg"  style="height: 250px;padding: 5px">
                   <div style="border-left:solid 4px gray; height: 400px; padding: 10px;">
                     <p class="text-color-black">
                       <b>
@@ -764,7 +904,7 @@ include('includes/config.php');
                 </div>
 
                 <div>
-                  <img alt="Mrs Tope Ande Chairperson" class="img-fluid rounded" src="cpc/2.jpg" style="height: 280px;padding: 5px">
+                  <img alt="Mrs Tope Ande Chairperson" class="img-fluid rounded" src="cpc/2.jpg" style="height: 250px;padding: 5px">
                   <div style="border-left:solid 4px gray; height: 400px; padding: 10px;"> 
                     <p class="text-color-black">
                       <b>
@@ -779,7 +919,7 @@ include('includes/config.php');
                 </div>
 
                 <div>
-                  <img alt=" Barrister Joanne Miller - Egboboh Chairperson" class="img-fluid rounded" src="cpc/#" style="height: 280px;padding: 5px">
+                  <img alt=" Barrister Joanne Miller - Egboboh Chairperson" class="img-fluid rounded" src="cpc/3.jpg" style="height: 250px;padding: 5px">
                   <div style="border-left:solid 4px gray; height: 400px; padding: 10px;"> 
                     <p class="text-color-black">
                       <b>
@@ -795,7 +935,7 @@ include('includes/config.php');
 
 
                 <div>
-                  <img alt=" Mrs Ifeyinwa Adesida" class="img-fluid rounded" src="cpc/#" style="height: 280px;padding: 5px">
+                  <img alt=" Mrs Ifeyinwa Adesida" class="img-fluid rounded" src="cpc/4.jpg" style="height: 250px;padding: 5px">
                   <div style="border-left:solid 4px gray; height: 400px; padding: 10px;"> 
                     <p class="text-color-black">
                       <b>
@@ -810,11 +950,11 @@ include('includes/config.php');
                 </div>
 
                 <div>
-                  <img alt=" Mrs Sarat Onibudo" class="img-fluid rounded" src="cpc/#" style="height: 280px;padding: 5px">
+                  <img alt=" Mrs Sarat Onibudo" class="img-fluid rounded" src="cpc/5.jpg" style="height: 250px;padding: 5px">
                   <div style="border-left:solid 4px gray; height: 400px; padding: 10px;"> 
                     <p class="text-color-black">
                       <b>
-                      Mrs Sarat Onibudo<br> Chairperson, Agro cluster
+                      Mrs Regina Obasa <br> Chairperson, Agro cluster
                       </b>
                     </p>
                     <hr>
@@ -826,11 +966,11 @@ include('includes/config.php');
 
 
                 <div>
-                  <img alt=" Mrs Sarat Onibudo" class="img-fluid rounded" src="cpc/#" style="height: 280px;padding: 5px">
+                  <img alt=" Mrs Sarat Onibudo" class="img-fluid rounded" src="cpc/6.jpg" style="height: 250px;padding: 5px">
                   <div style="border-left:solid 4px gray; height: 400px; padding: 10px;"> 
                     <p class="text-color-black">
                       <b>
-                        Mrs Regina Obasa  <br> Chairperson Tourism/Travel 
+                       Mrs Sarat Onibudo<br> Chairperson Tourism/Travel 
                       </b>
                     </p>
                     <hr>
@@ -998,148 +1138,7 @@ include('includes/config.php');
   </section>
   <!-----------------------Exco Ends -------------------->
 
-
-
-<!-----------Meet our operating Team Starts-------------->
-  <section
-          class="section section-height-3 custom-section-full-width bg-color-transparent border-0 pb-4 mb-0 mt-1"
-          style="
-            background-image: url(img/demos/it-services/backgrounds/dots-background-1.png);
-            background-repeat: no-repeat;
-            background-position: top left;
-          "
-        >
-    <div class="container container-lg mt-3">
-      <div class="row">
-        <div class="col-lg-4 mb-5 mb-lg-0">
-          <span
-            class="d-block custom-text-color-grey-1 font-weight-bold mb-1 appear-animation"
-            data-appear-animation="fadeInUpShorter"
-            data-appear-animation-delay="300"
-            ></span
-          >
-          <h2
-            class="text-color-dark font-weight-bold text-8 line-height-2 negative-ls-1 pb-2 mb-4 appear-animation"
-            data-appear-animation="fadeInUpShorter"
-            data-appear-animation-delay="500"
-          >
-            Superior leader is a person who can bring ordinary people together to achieve extraordinary results.
-          </h2>
-          <p
-            class="custom-text-size-1 pb-2 mb-4 appear-animation"
-            data-appear-animation="fadeInUpShorter"
-            data-appear-animation-delay="700"
-          >
-           "We are what we repeatedly do. Excellence, then, is not an act, but a habit. " <br>
-           - Aristotle
-          </p>
-        </div>
-        <div class="col-lg-8">
-          <ul
-            class="custom-nav-style-1 nav nav-pills justify-content-lg-start pb-3 appear-animation"
-            data-appear-animation="fadeInUpShorter"
-            data-appear-animation-delay="1100"
-          >
-            
-          
-            <li class="nav-item" style="background-color: #ff3b14">
-              <a href="women_entrepreneurs_excos.php" 
-                class="nav-link font-weight-bold text-white border px-4 py-3"
-                href="women_entrepreneurs_excos.php"
-                >View More Operation Team Members</a
-              >
-            </li>
-          </ul>
-
-          <div
-            class="sort-destination-loader sort-destination-loader-loaded mt-1 pt-2"
-          >
-            <div
-              id="portfolioLoadMoreWrapper"
-              class="row row-gutter-sm portfolio-list sort-destination overflow-visible justify-content-center"
-              data-sort-id="portfolio"
-              data-total-pages="3"
-              data-ajax-url="ajax/demo-it-services-ajax-load-more-"
-            >
-
-            </div>
-            <div class="row">
-            <div class="col">
-              <h4>Click on "View More Operation Team Members" to see all</h4>
-              <div class="owl-carousel owl-theme stage-margin" data-plugin-options="{'items': 3, 'margin': 7, 'loop': true, 'nav': true, 'dots': true, 'stagePadding': 10}">
-                <div>
-                  <img alt="Mrs. Affi Israel Ibanga" class="img-fluid rounded" src="images/executive/Mrs Afi Ibanga Pic.jpg">
-                  <p>
-                    <b>
-                      Mrs. Affi Israel Ibanga <br> 
-                      Chief Operation Officer
-                    </b>
-                  </p>
-                </div>
-                <div>
-                 <img alt="" class="img-fluid rounded" src="images/executive/Mrs Mimy Bawa-Allah.jpg">
-                  <p>
-                    <b>
-                     Mrs Mireille B. <br> 
-                     General Secretary
-                    </b>
-                  </p>
-                </div>
-                <div>
-                  <img alt="Mrs Edith Lawal" class="img-fluid rounded" src="images/executive/Mrs Edith Lawal.jpg">
-                  <p>
-                    <b>
-                     Mrs Edith Lawal<br> 
-                    Public Relations Officer
-                    </b>
-                  </p>
-                </div>
-                <div>
-                  <img alt="Ogun State Coordinator, WEPDN" class="img-fluid rounded" src="images/executive/Mrs Dorcas James.jpg">
-                  <p>
-                    <b>
-                     Mrs Dorcas James<br> 
-                     Ogun State Coordinator.
-                    </b>
-                  </p>
-                </div>
-                <div>
-                  <img alt="" class="img-fluid rounded" src="images/executive/Ms. Folasade Coker.jpg">
-                  <p>
-                    <b>
-                     Ms. Folasade Coker<br> 
-                     Chief Whip
-                    </b>
-                  </p>
-                </div>
-                
-              </div>
-            </div>
-          </div>
-
-
-            <div id="portfolioLoadMoreBtnWrapper" class="row mt-3">
-              <div class="col text-center">
-                <div
-                  id="portfolioLoadMoreLoader"
-                  class="portfolio-load-more-loader"
-                >
-                  <div class="bounce-loader">
-                    <div class="bounce1"></div>
-                    <div class="bounce2"></div>
-                    <div class="bounce3"></div>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-  </section>
-  <!----Meet our Operating team  ends---------------------->
-  
-    <section
+<section
     id="services"
     class="section custom-section-full-width bg-color-transparent border-0 mt-0 mb-1"
     style="
